@@ -1,0 +1,2 @@
+#Adds the current page to your Zotero library. Doesn't always work
+javascript:var%20d=document,s=d.createElement('script');s.src='https://www.zotero.org/bookmarklet/loader.js';(d.body?d.body:d.documentElement).appendChild(s);void(0);
